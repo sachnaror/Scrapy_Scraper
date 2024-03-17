@@ -17,4 +17,5 @@ cd quotes-scraper
 scrapy crawl QuotesScraper
 ```
 
-![Uploading image.png…]()
+<img width="1353" alt="image" src="https://github.com/sachnaror/Scrapy_Scraper/assets/9551754/e68099c2-f9c3-4d0b-878f-4374aaf2375d">
+
