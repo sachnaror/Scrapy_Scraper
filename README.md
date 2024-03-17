@@ -16,3 +16,5 @@ git clone https://github.com/sachnaror/quotes-scraper.git
 cd quotes-scraper
 scrapy crawl QuotesScraper
 ```
+
+![Uploading image.png…]()
